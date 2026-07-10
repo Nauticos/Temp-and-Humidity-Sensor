@@ -2,8 +2,6 @@
 
 ## Jul 8, 2026, 7:33 PM
 
-# 08/07/2026
-
 Today I started to design my breadboard project. I will be making a temperature and humidity sensor for my room, since I want to know how hot/humid my room is. I chose the ESP32 kit so I have the option to expand using Wifi in the future (e.g. make a website so I can see the temperature and humidity from anywhere with Wifi). The first thing I will do is arrange the components I need and figure out the connections from there. 
 
 I connected the screen to pins 21 and 22, because I did some research before and learnt that D21 and D22 are commonly used as the default I2C pins (which the screen is).
@@ -13,8 +11,6 @@ I made my first draft for my firmware, however I am getting errors to do with th
 ---
 
 ## Jul 8, 2026, 9:49 PM
-
-## 08/07/2026
 
 I am still struggling to find the error. It says that the DHT sensor library isn't installed (when it is), so I am very confused at the moment.
 
@@ -40,8 +36,6 @@ The button works, but the numbers are still random.
 
 ## Jul 9, 2026, 11:31 AM
 
-# 09/07/2026
-
 I am going to try fix the issue where the screen's output does not match up with the DHT11 sensor (random numbers).
 
 The humidity seems to work correctly between 20 and 25%, but then at 26%, it shows 1.4%, at 27% its 2.4%, etc. Happens again at 51% = 26.4%, 52% = 2.8%.
@@ -53,8 +47,6 @@ At least I sort of have identified the problem with the humidity sensor, I think
 ---
 
 ## Jul 10, 2026, 11:55 AM
-
-## 09/07/2026
 
 I have managed to get the humidity to work up to 44%, now I have to think about how to get it to work up to 90%.
 
@@ -68,8 +60,6 @@ which COULD help me think of an idea (still quite confused).
 ---
 
 ## Jul 10, 2026, 12:05 PM
-
-# 10/7/2026
 
 After asking for help in #breadboard-help, apparently the error was that the editor treated the sensor as a DHT22, not a DHT11, and hopefully it will be fixed now, so I'm going to test it now.
 
