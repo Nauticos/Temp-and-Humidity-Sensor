@@ -1,4 +1,4 @@
-# A temperature and humidity sensor
+# Temp and Humidity Sensor
 
 
 
