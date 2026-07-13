@@ -2,10 +2,10 @@
 
 
 
-![Temp and Humidity Sensor](https://breadboard.hackclub.com/api/uploads/project-screenshots/6jFkHdcVQBX42vglemq3cvGpjo5Hxi4A/82/c2e888d6-a770-4b5e-8866-3a3744a3fd19.png)
+![Temp and Humidity Sensor](screenshot.png)
 
 
-> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~2.9 hours of work.
+> Built in [Breadboard](https://breadboard.hackclub.com), a Hack Club program. This project took ~3 hours of work.
 
 
 
@@ -26,7 +26,8 @@ Connect the wiring as shown. When you initially connect power, the screen will s
 
 ## Demo
 
-- **Try it:** [https://breadboard.hackclub.com/share/82](https://breadboard.hackclub.com/share/82)
+- **Simulate it live:** [https://breadboard.hackclub.com/share/82](https://breadboard.hackclub.com/share/82), runs the firmware in the Breadboard simulator
+- **View the design:** [https://taniwankenobi.github.io/breadboard-plays/p/82/](https://taniwankenobi.github.io/breadboard-plays/p/82/)
 
 
 ## Schematic
@@ -58,7 +59,7 @@ Build journal entries are kept in [`journals.md`](journals.md).
 
 
 
-*Made in [Breadboard](https://breadboard.hackclub.com) — 2.9h of work*
+*Made in [Breadboard](https://breadboard.hackclub.com) — 3h of work*
 
 
 
